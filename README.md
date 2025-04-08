@@ -1,6 +1,7 @@
-# Git_TutorialHere are some common **Git commands** you might find useful:
+# Git_Tutorial
+Here are some common Git commands you might find useful:
 
-### Basic Git Commands:
+Basic Git Commands:
 
 1. **git init**  
    Initialize a new Git repository in the current directory.
