@@ -1,0 +1,25 @@
+Here are some common Git commands you might find useful:
+
+Basic Git Commands:
+
+git init
+Initialize a new Git repository in the current directory.
+
+git clone [url]
+Clone an existing repository from a URL to your local machine.
+
+git status
+Show the status of changes in your working directory (which files are modified, added, or deleted).
+
+git add [file]
+Stage a specific file to be committed.
+
+git add .
+Stage all changes in the directory for commit.
+
+git commit -m "[message]"
+Commit staged changes with a descriptive message.
+
+git log
+Show the commit history.
+
